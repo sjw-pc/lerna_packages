@@ -1,6 +1,6 @@
 {
   "name": "@sjw-pc/modulea",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,10 +9,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@sjw-pc/moduleb": "^1.0.2",
     "husky": "^7.0.4",
     "jquery": "^3.6.0",
-    "lodash": "^4.17.21",
-    "@sjw-pc/moduleb": "^1.0.0"
+    "lodash": "^4.17.21"
   },
   "gitHead": "644e7730074b6ad2362ecc0d345667947f8ebebe"
 }
