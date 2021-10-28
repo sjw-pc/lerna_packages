@@ -1,5 +1,5 @@
 {
-  "name": "@sjw-pc/modulea",
+  "name": "sjwtestmodulea",
   "version": "1.0.2",
   "description": "",
   "main": "index.js",
@@ -9,10 +9,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@sjw-pc/moduleb": "^1.0.2",
+    "sjwtestmoduleb": "^1.0.2",
     "husky": "^7.0.4",
     "jquery": "^3.6.0",
     "lodash": "^4.17.21"
   },
-  "gitHead": "644e7730074b6ad2362ecc0d345667947f8ebebe"
+  "gitHead": "36cf42dfdd5a1c5ef758ed6c0b6e134f6f4b15d9"
 }
