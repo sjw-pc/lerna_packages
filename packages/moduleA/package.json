@@ -1,5 +1,5 @@
 {
-  "name": "modulea",
+  "name": "@sjw-pc/modulea",
   "version": "1.0.1",
   "description": "",
   "main": "index.js",
@@ -12,6 +12,7 @@
     "husky": "^7.0.4",
     "jquery": "^3.6.0",
     "lodash": "^4.17.21",
-    "moduleb": "^1.0.0"
-  }
+    "@sjw-pc/moduleb": "^1.0.0"
+  },
+  "gitHead": "644e7730074b6ad2362ecc0d345667947f8ebebe"
 }

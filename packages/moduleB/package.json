@@ -1,5 +1,5 @@
 {
-  "name": "moduleb",
+  "name": "@sjw-pc/moduleb",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,5 +11,6 @@
   "dependencies": {
     "lodash": "^4.17.21",
     "zepto": "^1.2.0"
-  }
+  },
+  "gitHead": "644e7730074b6ad2362ecc0d345667947f8ebebe"
 }
